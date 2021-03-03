@@ -8,6 +8,6 @@
 
 ## And Telegram:
 
-# --> [Write me](https://t.me/fuflik_yt) <-- 
+# --> [Write me](https://t.me/itachichrist) <-- 
 
 <br />
