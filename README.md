@@ -1,8 +1,8 @@
-### Hi there, I'm Ak1r4 Yuk1 - aka [Akira] 👋
+### Hi there, I'm ITACHICHRIST 👋
 
 ### Connect with me:
 
- <img align="left" alt="akirayuki.it" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[Website](https://www.fuflik.ml)
+ <img align="left" alt="www.fuflik.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[Website](https://www.fuflik.ml)
 
  <img align="left" alt="https://youtube.com/FUFLIK | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://youtube.com/FUFLIK)
 
