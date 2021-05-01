@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[![Itachicoder GitHub stats](https://github-readme-stats.vercel.app/api?username=itachicoders&show_icons=true&theme=radical)
+![Itachicoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachicoders&show_icons=true&theme=radical)
 
 ## And Telegram:
 
