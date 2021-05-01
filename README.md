@@ -2,7 +2,7 @@
 
 ### Connect with me:
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itachicoders&show_icons=true&theme=radical)
+[![Itachicoder GitHub stats](https://github-readme-stats.vercel.app/api?username=itachicoders&show_icons=true&theme=radical)
 
 ## And Telegram:
 
