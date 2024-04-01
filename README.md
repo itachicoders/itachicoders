@@ -6,11 +6,3 @@
    a 16 year old boy, currently learning python
    
  </h5>
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itachicoders&theme=radical" />
-</a>
-
- 
- 
-
-
