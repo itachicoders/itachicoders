@@ -3,6 +3,6 @@
 </div>
 
  <h3>
-   a 18 year old boy, currently learning python
+   a 18 year old boy, currently learning c/c++
    
  </h5>
